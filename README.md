@@ -1,5 +1,5 @@
 # SuperLegal - Legal AI Agent
-SuperLegal is an advanced AI agent designed to assist with legal contract management. Trained specifically on Singapore and UAE law, it provides a comprehensive solution for drafting, reviewing, referencing, and amending legal contracts and paperwork. Whether you're a business professional, legal expert, or entrepreneur, SuperLegal simplifies the legal processes by offering reliable, real-time assistance.
+SuperLegal is an AI-powered legal assistant designed to support the drafting, reviewing, and amending of business contracts, with a focus on the legal frameworks of Singapore and UAE. By automating contract management processes, SuperLegal ensures compliance with local laws, providing an efficient and reliable solution for businesses and individuals dealing with legal paperwork.
 
 # Features
 1) Draft Legal Contracts: SuperLegal generates business contracts based on standard legal practices in Singapore and UAE.
